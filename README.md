@@ -3,8 +3,11 @@
 ### Install Locally
 ````
 mvn clean install
-
 ````
+### Install Locally
+```
+cd target
+```
 
 ### Run
 ````
