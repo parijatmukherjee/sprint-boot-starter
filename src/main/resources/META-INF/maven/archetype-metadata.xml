@@ -25,6 +25,7 @@
             <directory/>
             <includes>
                 <include>Makefile</include>
+                <include>.gitignore</include>
             </includes>
         </fileSet>
     </fileSets>
